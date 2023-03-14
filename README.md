@@ -1,0 +1,1 @@
+# awk-function-for-sum-of-squares
